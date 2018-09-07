@@ -4,4 +4,4 @@ jdk:
   - oraclejdk8
   
 install: true
-script: ./mvnw clean install
+script: "mvn clean install"
