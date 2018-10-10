@@ -1,4 +1,4 @@
-# hgw     [![Build Status](https://travis-ci.org/doribd/hgw.svg?branch=master)](https://travis-ci.org/doribd/hgw)
+# Hgw     [![Build Status](https://travis-ci.org/doribd/hgw.svg?branch=master)](https://travis-ci.org/doribd/hgw)
 h stands for Http, gw stands for Gateway
 
 Technology stack includes: spring-boot 2.1.0 M2, netty, http/2
