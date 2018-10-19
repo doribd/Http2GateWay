@@ -16,10 +16,10 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 @Configuration
 public class Http2Router {
 
-	@Bean
-	public RouterFunction<ServerResponse> route(Http2Handler http2Handler) {
+    @Bean
+    public RouterFunction<ServerResponse> route(Http2Handler http2Handler) {
 
-		return RouterFunctions
-			.route(RequestPredicates.GET("/test").and(RequestPredicates.accept(MediaType.TEXT_PLAIN)), http2Handler::hello);
-	}
+        return RouterFunctions
+                .route(RequestPredicates.GET("/test").and(RequestPredicates.accept(MediaType.TEXT_PLAIN)), http2Handler::hello);
+    }
 }
