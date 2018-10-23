@@ -4,9 +4,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/doribd/hgw.svg?style=plastic)](https://github.com/doribd/hgw/stargazers)
 [![GitHub license](https://img.shields.io/github/license/doribd/hgw.svg?style=plastic)](https://github.com/doribd/hgw/blob/master/LICENSE)
 
-Technology stack includes: spring-boot 2.1.0 M4, Netty, HTTP/2
+Technology stack includes: spring-boot 2.1.0 RC1, Netty, HTTP/2
 
 Spring-boot and netty documentation https://docs.spring.io/spring-boot/docs/2.1.0.M2/reference/html/howto-embedded-web-servers.html#howto-configure-http2-netty
 
-Code doesn't contain the certificate from security reasons. You will need to create it by yourself. 
+Code does not includes the certificate from security reasons. You will need to create it by yourself. 
 In the properties there is a full description of how to create the certification.
