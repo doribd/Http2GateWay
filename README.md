@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/doribd/hgw.svg?style=plastic)](https://github.com/doribd/hgw/stargazers)
 [![GitHub license](https://img.shields.io/github/license/doribd/hgw.svg?style=plastic)](https://github.com/doribd/hgw/blob/master/LICENSE)
 
-Technology stack includes: spring-boot 2.1.0 RC1, Netty, HTTP/2
+Technology stack includes: spring-boot 2.1.0, Netty, HTTP/2
 
 Spring-boot and netty documentation https://docs.spring.io/spring-boot/docs/2.1.0.M2/reference/html/howto-embedded-web-servers.html#howto-configure-http2-netty
 
