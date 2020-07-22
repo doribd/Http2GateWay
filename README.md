@@ -1,4 +1,4 @@
-# Hgw - Http2 GateWay     
+# HGW - Http2 GateWay     
 [![Build Status](https://travis-ci.org/doribd/hgw.svg?branch=master)](https://travis-ci.org/doribd/hgw)
 [![GitHub forks](https://img.shields.io/github/forks/doribd/hgw.svg?style=plastic)](https://github.com/doribd/hgw/network)
 [![GitHub stars](https://img.shields.io/github/stars/doribd/hgw.svg?style=plastic)](https://github.com/doribd/hgw/stargazers)
